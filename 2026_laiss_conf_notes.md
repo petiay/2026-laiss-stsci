@@ -9,7 +9,7 @@ https://docs.google.com/document/d/1FmJU2ykS7eSSqU6_TYnuo2KiMyb_wUO4kIrxh5QOeyI/
 
 Tutorial Session A: ** “AI Agents” with Lorenz Ehrlich**
 * Notebook at: https://colab.research.google.com/github/l-ehrlich/ai_agent_tutorial_baltimore/blob/main/AI_Agents_Tutorial.ipynb#scrollTo=QUmYpjey8M_h
-* APU Google keys: https://aistudio.google.com/api-keys
+* API Google keys: https://aistudio.google.com/api-keys
 
 Tutorial Session B: **“Tokenization and Context Engineering” with John Wu**
 	
@@ -70,7 +70,7 @@ http://aion-search.github.io
 Parameter efficient fine tuning (PEFT)
 
 
-## **Day 4**
+## Day 4
 
 Morning session 1
 
@@ -83,12 +83,27 @@ Morning session 1
 -> Platonic Universe
 
 
+## Poster Pops Day 4
+
+**Hayley Roberts**, Zooniverse, Preparing for LLMs in Citizen Science with Zooniverse
+
+**Kiera McCormick**, JHU, Encoding and Understanding Astrophysical Info in LLM-Generated SummariesarXive 2511.14685
+
+**Dan Coe**. STScI, JWST NIRspec tools, calibrations, and program review aided by AI
+
+**Yang Cheng**, MPIA, MMF for JWST imaging
+
+**Clara Salditt**, LMU Munchen, 
+
+**Ben Ramsey**, StarGateVR AI: A voice-driven multi-WL data acquisition ecploration tool in VR
+
 
 ## References:
 
 1. AstroLLaMA : Towards Specialized Foundation Models in Astronomy: https://arxiv.org/pdf/2309.06126
 2. Notebook ML: https://notebooklm.google/?gad_source=1&gad_campaignid=23001817403&gbraid=0AAAAA-fwSscE_zeIVeKCvoDt2RSo188tC&gclid=CjwKCAjwyMnNBhBNEiwA-Kcgu5bpFsxZEC8LMnCyNCFTprRkZE8Z0ONERHkhEKLOkylML7TbabQ4BxoCRfAQAvD_BwE
 3. Jessy Li: Benchmarking and Evaluating NLP models. Paper on arXiv two days ago
+4. https://audience.ahaslides.com/v4hggf7i0n
 
 
 
